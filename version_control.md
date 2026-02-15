@@ -18,6 +18,8 @@ Ediited
 	git clone <repo_url>
 	```
 
+    ![Image|https://tages-final-project-test-bucket.s3.us-east-1.amazonaws.com/CleanShot+2026-02-15+at+15.00.34.png]
+
 ## Working with Changes
 
 - **Check status:**
