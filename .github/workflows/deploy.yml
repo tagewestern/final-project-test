@@ -23,6 +23,6 @@ jobs:
         ssh -o StrictHostKeyChecking=no -i private_key.pem ${USER}@${HOST} '
         cd /home/ec2-user/final-project-test &&
         git pull origin main &&
-        docker-compose down &&
-        docker-compose up -d
+        docker compose down &&
+        docker compose up -d
         '
